@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/pursuit-curriculum/lab-npm-packages#readme",
   "dependencies": {
+    "chalk": "^5.3.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
